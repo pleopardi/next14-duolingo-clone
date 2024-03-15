@@ -1,7 +1,6 @@
 # Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)
 
-![Copy of Copy of Copy of Copy of Fullstack Twitter Clone (11)](https://github.com/AntonioErdeljac/next14-miro-clone/assets/23248726/1f973316-0bf4-4fa0-b014-40bb9edc1942)
-
+![Duolingo thumb (1)](https://github.com/AntonioErdeljac/next14-duolingo-clone/assets/23248726/d58e4b55-bb09-456f-978e-f5f31e81b870)
 
 This is a repository for a "Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)" youtube video.
 
